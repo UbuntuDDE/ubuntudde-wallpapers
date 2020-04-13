@@ -1,3 +1,6 @@
 # Deepin Wallpapers
 
-deepin-wallpapers provides wallpapers of dde
+deepin-wallpapers wallpapers for UbuntuDDE
+
+To contribute, send a PR with the uploaded to deepin directory as follows:
+<wallpapername>_by_<yourname>.jpg
