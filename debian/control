@@ -1,0 +1,14 @@
+Source: deepin-wallpapers
+Section: utils
+Priority: optional
+Maintainer: Arun Kumar Pariyar <expertaruncorp@gmail.com>
+XSBC-Original-Maintainer: Deepin Packages Builder <packages@deepin.com>
+Build-Depends: debhelper (>=9), dde-api, imagemagick-6.q16
+Standards-Version: 3.9.6
+Homepage: https://www.deepin.org/
+
+Package: deepin-wallpapers
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Breaks: deepin-desktop-base (<< 2017.11.2)
+Description: Default wallpapers for dde
