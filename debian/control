@@ -1,11 +1,16 @@
 Source: deepin-wallpapers
-Section: utils
+Section: misc
 Priority: optional
 Maintainer: Arun Kumar Pariyar <expertaruncorp@gmail.com>
 XSBC-Original-Maintainer: Deepin Packages Builder <packages@deepin.com>
-Build-Depends: debhelper (>=9), dde-api, imagemagick-6.q16
-Standards-Version: 3.9.6
-Homepage: https://www.deepin.org/
+Uploaders: Arun Kumar Pariyar <expertaruncorp@gmail.com>
+ Joshua Peisach <itzswirlz2020@outlook.com>
+Build-Depends: debhelper (>=12), dde-api, imagemagick-6.q16
+Standards-Version: 4.4.0
+Rules-Require-Root: no
+Homepage: https://github.com/UbuntuDDE
+Vcs-Browser: https://github.com/UbuntuDDE/deepin-wallpapers
+Vcs-Git: https://github.com/UbuntuDDE/deepin-wallpapers.git
 
 Package: deepin-wallpapers
 Architecture: any

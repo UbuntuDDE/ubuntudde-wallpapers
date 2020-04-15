@@ -1,3 +1,10 @@
+deepin-wallpapers (1.7.7-5) focal; urgency=low
+
+  [Joshua Peisach]
+  * Improve some of the packaging info and copyright
+  * Bump standards-version to 4.4.0
+  * Add myself as uploader
+
 deepin-wallpapers (1.7.7-4) focal; urgency=high
 
   * Updated desktop.jpg by Ananta Mishra
@@ -24,7 +31,7 @@ deepin-wallpapers (1.7.7-1) focal; urgency=high
 
 deepin-wallpapers (1.3) stable; urgency=low
 
-  * Autobuild Tag 1.3 
+  * Autobuild Tag 1.3
 
  -- TagBuilder <tagbuilder@linuxdeepin.com>  Mon, 23 May 2016 14:13:20 +0000
 
