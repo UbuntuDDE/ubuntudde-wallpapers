@@ -1,3 +1,9 @@
+deepin-wallpapers (1.7.7-6) focal; urgency=high
+
+  * Renamed to desktop.jpg for default wallpaper
+
+ -- Arun Kumar Pariyar <expertaruncorp@gmail.com>  Sun, 26 Apr 2020 19:53:27 +0545
+
 deepin-wallpapers (1.7.7-4) focal; urgency=high
 
   * Updated desktop.jpg by Ananta Mishra
