@@ -3,12 +3,21 @@ Upstream-Name: deepin-wallpapers
 Source: <url://example.com>
 
 Files: *
-Copyright: <years> <put author's name and email here>
-           <years> <likewise for another author>
+Copyright: 2016-2021, Deepin Packages Builder <packages@linuxdeepin.com>
+           2021, Arun Kumar Pariyar <openarungeek@gmail.com>
+License: GPL-3.0+
+
+Files: ubuntudde/*mustang*
+       ubuntudde/*KoolArpan*
+       ubuntudde/*Ananta*
+Copyright: 2020-2021, Ananta Raj Mishra <>
+           2020-2021, Kool Arpan <koolarpan@gmail.com>
+           2021, Jot Singh <jotsingh164.js@gmail.com>
 License: GPL-3.0+
 
 Files: debian/*
-Copyright: 2016 Deepin Packages Builder <packages@linuxdeepin.com>
+Copyright: 2016, Deepin Packages Builder <packages@linuxdeepin.com>
+           2021, Arun Kumar Pariyar <openarungeek@gmail.com>
 License: GPL-3.0+
 
 License: GPL-3.0+
