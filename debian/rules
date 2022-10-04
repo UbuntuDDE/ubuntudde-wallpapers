@@ -2,3 +2,6 @@
 
 %:
 	dh $@
+
+execute_before_dh_auto_build:
+	mv ubuntudde/ubuntuDDE-jammy-jellyfish-3.2_by_mustang.jpg ubuntudde/desktop.jpg
