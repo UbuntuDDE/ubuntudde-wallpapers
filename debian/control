@@ -2,12 +2,17 @@ Source: ubuntudde-wallpapers
 Section: utils
 Priority: optional
 Maintainer: Arun Kumar Pariyar <openarungeek@gmail.com>
-Build-Depends: debhelper-compat (=13), dde-api
+Build-Depends:
+ dde-api,
+ debhelper-compat (=13),
 Standards-Version: 4.5.1
 Homepage: https://ubuntudde.com/
 
 Package: ubuntudde-wallpapers
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}
-Breaks: deepin-desktop-base (<< 2017.11.2)
+Depends:
+ ${misc:Depends},
+ ${shlibs:Depends},
+Breaks:
+ deepin-desktop-base (<< 2017.11.2),
 Description: Default wallpapers for UbuntuDDE Remix.
